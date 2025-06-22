@@ -67,7 +67,6 @@ O sistema possui autenticação com hash de senha e controle de permissões base
 
 🧼 Interface simples e amigável para o usuário final.
 
-📷 Prints (se desejar, pode incluir aqui imagens da interface ou da API rodando)
 🙋‍♂️ Desenvolvido por
 Aluno do curso de Análise e Desenvolvimento de Sistemas – IFPR Campus Paranaguá
 Contato: artursimonijesus@gmail.com
